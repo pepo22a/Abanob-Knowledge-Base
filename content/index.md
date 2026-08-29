@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: English Premier League
 ---
-## The index page
+## Introduction:
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+I have been a huge soccer fan since I was a kid; that's why I couldn't find anything I followed more than the English Premier League over the past 20 years.
 
 ## Editing pages
 
