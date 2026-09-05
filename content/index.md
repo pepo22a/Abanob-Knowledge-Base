@@ -1,16 +1,19 @@
 ---
 title: English Premier League
 ---
-## Introduction:
+## Introduction
 
 I have been a huge soccer fan since I was a kid; that's why I couldn't find anything I followed more than the English Premier League over the past 20 years.
 
-## Editing pages
+## Main Categories
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
-
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
-
+- [[Premier League History|Premier League History]]
+- [[Premier League Competitions & Rules|Premier League Competitions & Rules]]
+- [[Premier League Clubs|Premier League Clubs]]
+- [[Premier League Players|Premier League Players]]
+- [[Premier League Records|Premier League Records]]
+- [[Premier League Hall of Fame|Premier League Hall of Fame]]
+---
 ### Obsidian (free)
 
 Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
