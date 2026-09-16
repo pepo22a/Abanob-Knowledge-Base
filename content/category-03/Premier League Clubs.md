@@ -1,8 +1,8 @@
 
 # Premier League Clubs
 
-- [[Liverpool.md]]
-- [[Manchester-United.md]]
-- [[Manchester-City.md]]
-- [[Arsenal.md]]
-- [[Chelsea.md]]
+- [[Liverpool]]
+- [[Manchester-United]]
+- [[Manchester-City]]
+- [[Arsenal]]
+- [[Chelsea]]
