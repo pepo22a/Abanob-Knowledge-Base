@@ -7,12 +7,12 @@ I have been a huge soccer fan since I was a kid; that's why I couldn't find anyt
 
 ## Main Categories
 
-- [[Premier League History|Premier League History]]
-- [[Premier League Competitions & Rules|Premier League Competitions & Rules]]
+- [[content/Premier League History/index|Premier League History]]
+- [[content/Premier League Competitions & Rules/index|Premier League Competitions & Rules]]
 - [[Premier League Clubs|Premier League Clubs]]
-- [[Premier League Players|Premier League Players]]
-- [[Premier League Records|Premier League Records]]
-- [[Premier League Hall of Fame|Premier League Hall of Fame]]
+- [[content/Premier League Players/index|Premier League Players]]
+- [[content/Premier League Records/index|Premier League Records]]
+- [[content/Premier League Hall of Fame/index|Premier League Hall of Fame]]
 ---
 ### Obsidian (free)
 
