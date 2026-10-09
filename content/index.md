@@ -7,7 +7,7 @@ I have followed soccer since childhood and have a deep passion for the sport; I 
 
 ## Main Categories
 
-1-  [[content/Premier League History/index|Premier League History]]
+1- [[content/Premier League History/index|Premier League History]]
 - [[Early Years]]
 - [[International growth]]
 - [[League Formation]]
