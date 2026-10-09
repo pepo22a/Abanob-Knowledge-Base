@@ -9,3 +9,9 @@ The Premier League launched its Hall of Fame in 2021 to honor the standout playe
 - [[Wayne Rooney]]
 
 ## Related Categories
+
+The Premier League Hall of Fame legendary players helped shape their [[content/Premier League Clubs/index|clubs]] and the competition [[content/Premier League History/index|history]].
+
+
+
+[[content/index|Homepage]]
