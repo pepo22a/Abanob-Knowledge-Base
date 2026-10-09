@@ -16,4 +16,4 @@ English clubs have contributed to shaping the [[content/Premier League Competiti
 
 
 
-[[content/index|Homepage]]
+[Homepage](../index.md)

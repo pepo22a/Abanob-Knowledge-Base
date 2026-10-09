@@ -14,4 +14,4 @@ The Premier League has always boasted exceptional players in both [[content/Prem
 
 
 
-[[content/index|Homepage]]
+[Homepage](../index.md)

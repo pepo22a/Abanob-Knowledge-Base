@@ -14,4 +14,4 @@ The Premier League Hall of Fame legendary players helped shape their [[content/P
 
 
 
-[[content/index|Homepage]]
+[Homepage](../index.md)

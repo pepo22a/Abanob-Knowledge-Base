@@ -13,4 +13,4 @@ The long history of the English Premier League and its [[content/Premier League 
 
 
 
-[[content/index|Homepage]]
+[Homepage](../index.md)
