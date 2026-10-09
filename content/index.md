@@ -11,24 +11,29 @@ I have followed soccer since childhood and have a deep passion for the sport; I 
 - [[Early Years]]
 - [[International growth]]
 - [[League Formation]]
+
 2- [[content/Premier League Competitions & Rules/index|Premier League Competitions & Rules]]
 - [[Points and Standings]]
 - [[Promotion and Relegation]]
 - [[VAR]]
+
 3- [[content/Premier League Clubs/index|Premier League Clubs]]
 - [[Arsenal]]
 - [[Chelsea]]
 - [[Liverpool]]
 - [[Manchester-City]]
 - [[Manchester-United]]
+
 4- [[content/Premier League Players/index|Premier League Players]]
 - [[Bukayo Saka]]
 - [[Erling Haaland]]
 - [[Mohamed Salah]]
+
 5- [[content/Premier League Records/index|Premier League Records]]
 - [[Goalscoring Records]]
 - [[Team Records]]
 - [[Unbeaten Runs]]
+
 6- [[content/Premier League Hall of Fame/index|Premier League Hall of Fame]]
 - [[Alan Shearer]]
 - [[Thierry Henry]]
