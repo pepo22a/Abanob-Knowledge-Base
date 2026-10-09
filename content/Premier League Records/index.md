@@ -10,7 +10,7 @@ Part of the prestige and greatness of the English Premier League lies in the rec
 
 ## Related Categories
 
-The level of competitiveness in the Premier League by [[content/Premier League Clubs/index|clubs]] and [[content/Premier League Players/index|players]] doesn’t make records stand for long, but there are some records that are almost impossible to break.
+The level of competitiveness in the Premier League by [players](https://pepo22a.github.io/Abanob-Knowledge-Base/Premier-League-Players/) and [[content/Premier League Players/index|players]] doesn’t make records stand for long, but some records are almost impossible to break.
 
 
 
