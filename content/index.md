@@ -1,45 +1,42 @@
 ---
 title: English Premier League
 ---
-## Introduction
+## # English Premier League Knowledge Base
 
-I have been a huge soccer fan since I was a kid; that's why I couldn't find anything I followed more than the English Premier League over the past 20 years.
+I have followed soccer since childhood and have a deep passion for the sport; I played for 20 years and even coached youth teams (under-13s), so it remains an integral part of my life. Although a spinal cord injury has left me a wheelchair user and unable to play anymore, I still enjoy watching matches at least three days a week, particularly the English Premier League, which I consider the best league in the world. Consequently, this project focuses on the English Premier League, tailored for beginners and anyone looking to start following the sport.
 
 ## Main Categories
 
-- [[content/Premier League History/index|Premier League History]]
-- [[content/Premier League Competitions & Rules/index|Premier League Competitions & Rules]]
-- [[Premier League Clubs|Premier League Clubs]]
-- [[content/Premier League Players/index|Premier League Players]]
-- [[content/Premier League Records/index|Premier League Records]]
-- [[content/Premier League Hall of Fame/index|Premier League Hall of Fame]]
----
-### Obsidian (free)
+1-  [[content/Premier League History/index|Premier League History]]
+- [[Early Years]]
+- [[International growth]]
+- [[League Formation]]
+2- [[content/Premier League Competitions & Rules/index|Premier League Competitions & Rules]]
+- [[Points and Standings]]
+- [[Promotion and Relegation]]
+- [[VAR]]
+3- [[content/Premier League Clubs/index|Premier League Clubs]]
+- [[Arsenal]]
+- [[Chelsea]]
+- [[Liverpool]]
+- [[Manchester-City]]
+- [[Manchester-United]]
+4- [[content/Premier League Players/index|Premier League Players]]
+- [[Bukayo Saka]]
+- [[Erling Haaland]]
+- [[Mohamed Salah]]
+5- [[content/Premier League Records/index|Premier League Records]]
+- [[Goalscoring Records]]
+- [[Team Records]]
+- [[Unbeaten Runs]]
+6- [[content/Premier League Hall of Fame/index|Premier League Hall of Fame]]
+- [[Alan Shearer]]
+- [[Thierry Henry]]
+- [[Wayne Rooney]]
 
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
+### For Premier League Beginners 
 
-Link: [https://obsidian.md/](https://obsidian.md/)
+If you do not follow soccer or are unfamiliar with the English Premier League, I recommend browsing the content in the same order presented on this page to ensure a deeper understanding of the project.
 
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
-
+[[About]]
+[[references]]
