@@ -8,7 +8,7 @@ I have followed soccer since childhood and have a deep passion for the sport; I 
 ## Main Categories  
 
 
-1- [[content/Premier League History/index|Premier League History]] 
+1- [Premier League History](../Premier%20League%20History/index.md) 
 - [[Early Years]]
 - [[International growth]]
 - [[League Formation]]
@@ -33,7 +33,7 @@ I have followed soccer since childhood and have a deep passion for the sport; I 
 5- [[content/Premier League Records/index|Premier League Records]]
 - [[Goalscoring Records]]
 - [[Team Records]]
-- [[Unbeaten Runs] 
+- [[Unbeaten Runs]]
 
 6- [[content/Premier League Hall of Fame/index|Premier League Hall of Fame]]
 - [[Alan Shearer]]

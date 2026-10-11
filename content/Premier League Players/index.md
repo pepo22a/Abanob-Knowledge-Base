@@ -10,7 +10,7 @@ A key factor in the global expansion and popularity of the English league is its
 
 ## Related Categories
 
-The Premier League has always boasted exceptional players in both [[content/Premier League Hall of Fame/index|past]] and present. The current players constantly strive to break the [[content/Premier League Records/index|records]] set by their predecessors.
+The Premier League has always boasted exceptional players in both [past](../Premier%20League%20History/index.md)  and present. The current players constantly strive to break the [[content/Premier League Records/index|records]] set by their predecessors.
 
 
 

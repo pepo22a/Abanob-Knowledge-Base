@@ -10,7 +10,7 @@ The Premier League launched its Hall of Fame in 2021 to honor the standout playe
 
 ## Related Categories
 
-The Premier League Hall of Fame legendary players helped shape their [[content/Premier League Clubs/index|clubs]] and the competition [[content/Premier League History/index|history]].
+The Premier League Hall of Fame legendary players helped shape their [[content/Premier League Clubs/index|clubs]] and the competition [history](../Premier%20League%20History/index.md).
 
 
 
