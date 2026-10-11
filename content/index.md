@@ -30,7 +30,7 @@ I have followed soccer since childhood and have a deep passion for the sport; I 
 - [[Erling Haaland]]
 - [[Mohamed Salah]]
 
-5- [[content/Premier League Records/index|Premier League Records]]
+5- [Premier League Records](../Premier%20League%20Records/index.md)
 - [[Goalscoring Records]]
 - [[Team Records]]
 - [[Unbeaten Runs]]
