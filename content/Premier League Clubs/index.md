@@ -12,7 +12,9 @@ English clubs rank among the strongest in the world, not only in terms of perfor
 
 ## Related Categories
 
-English clubs have contributed to shaping the [competition](../Premier%20League%20Competitions%20%26%20Rules/index.md) and its rules throughout its [history](../Premier%20League%20History/index.md) and have also boasted some of the greatest [soccer legends](../Premier%20League%20Hall%20of%20Fame/index.md) of all time.
+
+English clubs have contributed to shaping the  competition and its rules throughout its [[content/Premier League History/index|history]] and have also boasted some of the greatest [[content/Premier League Hall of Fame/index|soccer legends]] of all time.
+>>>>>>> fe22276fe5e44ffc89a29be269d7a202317faba9
 
 
 
