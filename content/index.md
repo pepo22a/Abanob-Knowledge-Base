@@ -13,7 +13,7 @@ I have followed soccer since childhood and have a deep passion for the sport; I 
 - [[International growth]]
 - [[League Formation]]
 
-2- [Premier League Competitions & Rules](../Premier%20League%20Competitions%20%26%20Rules/index.md)
+2- [Premier League Competitions and Rules](../Premier%20League%20Competitions%20&%20Rules/index.md)
 - [[Points and Standings]]
 - [[Promotion and Relegation]]
 - [[VAR]]
