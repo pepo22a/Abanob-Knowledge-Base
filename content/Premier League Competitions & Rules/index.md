@@ -10,7 +10,7 @@ This category explains concepts such as competition rules, league standings, rel
 
 ## Related Categories
 
-Unlike any other league, the clubs were always a big part of shaping the competition and rules. 
+Unlike any other league, the [clubs](../Premier%20League%20Clubs/index.md) were always a big part of shaping the competition and rules. 
 
 
 

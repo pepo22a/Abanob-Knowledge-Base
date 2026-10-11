@@ -18,7 +18,7 @@ I have followed soccer since childhood and have a deep passion for the sport; I 
 - [[Promotion and Relegation]]
 - [[VAR]]
 
-3- [[content/Premier League Clubs/index|Premier League Clubs]]
+3- [Premier League Clubs](../Premier%20League%20Clubs/index.md)
 - [[Arsenal]]
 - [[Chelsea]]
 - [[Liverpool]]
