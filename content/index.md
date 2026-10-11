@@ -35,7 +35,7 @@ I have followed soccer since childhood and have a deep passion for the sport; I 
 - [[Team Records]]
 - [[Unbeaten Runs]]
 
-6- [[content/Premier League Hall of Fame/index|Premier League Hall of Fame]]
+6- [Premier League Hall of Fame](../Premier%20League%20Hall%20of%20Fame/index.md) 
 - [[Alan Shearer]]
 - [[Thierry Henry]]
 - [[Wayne Rooney]]
