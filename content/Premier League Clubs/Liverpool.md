@@ -1,3 +1,8 @@
+---
+title: Liverpool in the Premier League
+date: 2026-10-06
+---
+
 # Liverpool 
 
 is one of England's most successful clubs; founded in 1892 in the city of Liverpool, it has played its home matches at Anfield since its inception. The club is known as **"The Reds"**, a nickname derived from the all-red kit worn since the 1960s, and its motto, _**"You'll Never Walk Alone,"**_ is among the most iconic in the world. The club has enjoyed several periods of domestic dominance, beginning with its transformation into a major force in English football under the legendary manager Bill Shankly. This legacy of success continued with numerous domestic and European achievements.
@@ -8,7 +13,7 @@ is one of England's most successful clubs; founded in 1892 in the city of Liverp
 - Kenny Dalglish
 - Jürgen Klopp.
 
-Although the Premier League era has not been Liverpool's most dominant period, with only two titles since the league's inception in 1992, the club boasts a total of 20 league titles, tying it with its traditional rival, [[Manchester-United]]. However, Liverpool holds the edge in European competition, having won six UEFA Champions League titles compared to Manchester United's three.
+Although the Premier League era has not been Liverpool's most dominant period, with only two titles since the league's inception in 1992, the club boasts a total of 20 league titles, tying it with its traditional rival, [[Manchester United]]. However, Liverpool holds the edge in European competition, having won six UEFA Champions League titles compared to Manchester United's three.
 
 
 -Anfield Stadium
