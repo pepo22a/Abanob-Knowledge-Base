@@ -25,7 +25,7 @@ I have followed soccer since childhood and have a deep passion for the sport; I 
 - [[Manchester City]]
 - [[Manchester United]]
 
-4- [[content/Premier League Players/index|Premier League Players]]
+4- [Premier League Players](../Premier%20League%20Players/index.md)
 - [[Bukayo Saka]]
 - [[Erling Haaland]]
 - [[Mohamed Salah]]
