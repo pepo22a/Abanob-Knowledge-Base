@@ -1,7 +1,7 @@
 ---
 title: English Premier League
 ---
-## # English Premier League Knowledge Base
+# English Premier League Knowledge Base
 
 I have followed soccer since childhood and have a deep passion for the sport; I played for 20 years and even coached youth teams (under-13s), so it remains an integral part of my life. Although a spinal cord injury has left me a wheelchair user and unable to play anymore, I still enjoy watching matches at least three days a week, particularly the English Premier League, which I consider the best league in the world. Consequently, this project focuses on the English Premier League, tailored for beginners and anyone looking to start following the sport.
 
@@ -22,8 +22,8 @@ I have followed soccer since childhood and have a deep passion for the sport; I 
 - [[Arsenal]]
 - [[Chelsea]]
 - [[Liverpool]]
-- [[Manchester-City]]
-- [[Manchester-United]]
+- [[Manchester City]]
+- [[Manchester United]]
 
 4- [[content/Premier League Players/index|Premier League Players]]
 - [[Bukayo Saka]]
