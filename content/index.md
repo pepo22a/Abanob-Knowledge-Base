@@ -1,5 +1,6 @@
 ---
 title: English Premier League
+date: 2026-10-10
 ---
 # English Premier League Knowledge Base
 
