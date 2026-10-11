@@ -7,8 +7,8 @@ English clubs rank among the strongest in the world, not only in terms of perfor
 - [[Arsenal]]
 - [[Chelsea]]
 - [[Liverpool]]
-- [[Manchester-City]]
-- [[Manchester-United]]
+- [[Manchester City]]
+- [[Manchester United]]
 
 ## Related Categories
 
